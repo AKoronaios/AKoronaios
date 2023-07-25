@@ -1,6 +1,6 @@
 ### Argyrios Koronaios
- 👨🏼‍🎓 Mathematics AUTh 
-  👨🏼‍💻 Artificial Intelligence & Data Analytics UoM 
+	👨🏼‍🎓 Mathematics AUTh 
+	👨🏼‍💻 Artificial Intelligence & Data Analytics UoM 
  
 Programming Languages
  <p>
@@ -8,9 +8,9 @@ Programming Languages
 	 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />	
  	  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/> 
 	   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> 
-	    <img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
  <p>
  
 Academic Interests
- Fraud Detection
-  Social Network Analytics 
+	* Fraud Detection
+	* Social Network Analytics 
