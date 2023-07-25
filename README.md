@@ -12,6 +12,5 @@ Programming Languages
  <p>
  
 Academic Interests |
--------------------|
-🔎 Fraud Detection |
+🕵🏻 Fraud Detection |
 🕸️ Social Network Analytics |
