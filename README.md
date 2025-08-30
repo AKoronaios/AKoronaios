@@ -17,7 +17,7 @@ Academic Interests |
 🕸️ Social Network Analytics |
 ⚽ Football Analytics|
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKoronaios&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKoronaios&layout=compact&theme=cobalt&hide_border=true"/>
 
 Contact Me 
 
